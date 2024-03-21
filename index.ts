@@ -26,5 +26,6 @@ if (answer.operator === "Addition"){
 }else{
     console.log("Select valid option!");
 }    
+console.log("The End");
     
     

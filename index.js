@@ -22,3 +22,4 @@ else if (answer.operator === "Division") {
 else {
     console.log("Select valid option!");
 }
+console.log("The End");
